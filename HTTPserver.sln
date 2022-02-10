@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTTPserver", "HTTPserver\HTTPserver.vcxproj", "{2AB42714-9269-4378-8F00-D36C8E975913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Debug|x64.ActiveCfg = Debug|x64
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Debug|x64.Build.0 = Debug|x64
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Debug|x86.Build.0 = Debug|Win32
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Release|x64.ActiveCfg = Release|x64
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Release|x64.Build.0 = Release|x64
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Release|x86.ActiveCfg = Release|Win32
+		{2AB42714-9269-4378-8F00-D36C8E975913}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00842C92-C028-4F31-A7FB-FC04B9C264C9}
+	EndGlobalSection
+EndGlobal
